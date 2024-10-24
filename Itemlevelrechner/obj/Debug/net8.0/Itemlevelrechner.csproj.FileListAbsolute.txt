@@ -1,0 +1,15 @@
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\bin\Debug\net8.0\Itemlevelrechner.exe
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\bin\Debug\net8.0\Itemlevelrechner.deps.json
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\bin\Debug\net8.0\Itemlevelrechner.runtimeconfig.json
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\bin\Debug\net8.0\Itemlevelrechner.dll
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\bin\Debug\net8.0\Itemlevelrechner.pdb
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.AssemblyInfoInputs.cache
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.AssemblyInfo.cs
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.csproj.CoreCompileInputs.cache
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.dll
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\refint\Itemlevelrechner.dll
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.pdb
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.genruntimeconfig.cache
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\ref\Itemlevelrechner.dll
+C:\Users\CrystalMuffins\source\repos\Itemlevelrechner\obj\Debug\net8.0\Itemlevelrechner.sourcelink.json
